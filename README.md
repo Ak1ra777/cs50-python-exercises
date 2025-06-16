@@ -19,3 +19,6 @@ ______________________________________________________________
 # Clone the repo
 git clone https://github.com/Ak1ra777/cs50-python-exercises.git
 cd cs50-python-exercises/bitcoin
+
+> 🧠 Note: This repository showcases my early Python work, focused on foundational exercises.
+> My primary interest is deep learning, and this repo reflects my journey through CS50 Python as a stepping stone toward AI engineering.
